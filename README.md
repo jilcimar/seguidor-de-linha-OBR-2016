@@ -7,10 +7,10 @@ Essa não é a versão final do código, é uma versão base.
 
 Chassi
 
-<p align="center"><img src="https://github.com/jilcimar/seguidor-de-linha-OBR-2016/blob/master/imagens/base.jpgg"></p>
+<p align="center"><img src="https://github.com/jilcimar/seguidor-de-linha-OBR-2016/blob/master/imagens/base.jpg" style="max-width: 50%;"></p>
 
 Montagem final do Hardware
 
-<p align="center"><img src="https://github.com/jilcimar/seguidor-de-linha-OBR-2016/blob/master/imagens/principal.jpg"></p>
+<p align="center"><img src="https://github.com/jilcimar/seguidor-de-linha-OBR-2016/blob/master/imagens/principal.jpg" style="max-width: 50%;"></p>
 
-<p align="center"><img src="https://github.com/jilcimar/seguidor-de-linha-OBR-2016/blob/master/imagens/frente.jpg"></p>
+<p align="center"><img src="https://github.com/jilcimar/seguidor-de-linha-OBR-2016/blob/master/imagens/frente.jpg" style="max-width: 50%;"></p>
